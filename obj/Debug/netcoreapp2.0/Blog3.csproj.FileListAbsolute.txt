@@ -1,0 +1,12 @@
+E:\Projects\diplomna\Blog3\Blog3\bin\Debug\netcoreapp2.0\Blog3.deps.json
+E:\Projects\diplomna\Blog3\Blog3\bin\Debug\netcoreapp2.0\Blog3.runtimeconfig.json
+E:\Projects\diplomna\Blog3\Blog3\bin\Debug\netcoreapp2.0\Blog3.runtimeconfig.dev.json
+E:\Projects\diplomna\Blog3\Blog3\bin\Debug\netcoreapp2.0\Blog3.dll
+E:\Projects\diplomna\Blog3\Blog3\obj\Debug\netcoreapp2.0\Blog3.csprojAssemblyReference.cache
+E:\Projects\diplomna\Blog3\Blog3\obj\Debug\netcoreapp2.0\Blog3.csproj.CoreCompileInputs.cache
+E:\Projects\diplomna\Blog3\Blog3\obj\Debug\netcoreapp2.0\Blog3.AssemblyInfoInputs.cache
+E:\Projects\diplomna\Blog3\Blog3\obj\Debug\netcoreapp2.0\Blog3.AssemblyInfo.cs
+E:\Projects\diplomna\Blog3\Blog3\bin\Debug\netcoreapp2.0\Blog3.pdb
+E:\Projects\diplomna\Blog3\Blog3\obj\Debug\netcoreapp2.0\Blog3.dll
+E:\Projects\diplomna\Blog3\Blog3\obj\Debug\netcoreapp2.0\Blog3.pdb
+E:\Projects\diplomna\Blog3\Blog3\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
